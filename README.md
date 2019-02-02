@@ -3,9 +3,12 @@ This App will give you a summary of sleep data. There are 2 datasets available t
 and sleep in mammals. You can compare each parameters for each datasets to see trends in Sleep patterns. 
 Below are the data columns present for each data sets.
 
+
 Student's Sleep Data: Data which show the effect of two soporific drugs
 (increase in hours of sleep compared to control) on 10 patients.
+
 COLUMNS:
+
 [, 1]	extra	numeric	increase in hours of sleep
 [, 2]	group	factor	drug given
 [, 3]	ID	factor	patient ID
