@@ -1,4 +1,8 @@
-# All_About_Sleep
+## All About Sleep
+# Developing Data Products: Course Project
+
+Descriptions:
+
 This App will give you a summary of sleep data. There are 2 datasets available to view, sleep in students
 and sleep in mammals. You can compare each parameters for each datasets to see trends in Sleep patterns. 
 Below are the data columns present for each data sets.
