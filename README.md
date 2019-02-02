@@ -1,5 +1,5 @@
 # All About Sleep
-## Developing Data Products: Course Project
+## Developing Data Products: Course Project Shiny Application
 
 Descriptions:
 
